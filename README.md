@@ -28,6 +28,12 @@
 
 - ⚡ Fun fact **I think I am creative**
 
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://auth.geeksforgeeks.org/user/pradeepvirat96/practice" target="blank"><img align="center" src="file:///C:/Users/20-733-028_YERRAJAMA/Downloads/gfg-gg-logo.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/a61148e0-9a85-4cc1-bcc1-df6bf80f008b" target="blank"><img align="center" src="file:///C:/Users/20-733-028_YERRAJAMA/Downloads/cn-studio-new-logo-27719.svg" alt="user:22438954" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yerrajaman-pradeep-kumar-63385b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yerrajaman pradeep kumar" height="30" width="40" /></a>
