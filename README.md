@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **● Food Ordering Ecommerce Store | PHP, MySQL, Bootstrap, PDO, Ajax-JQuery, PayPal Integration**
 
-- 👨‍💻 All of my projects are available at [https://pradeepkumar999.github.io/MyPortfolio/](https://pradeepkumar999.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/pradeepkumar999?tab=repositories](https://github.com/pradeepkumar999?tab=repositories)
 
 - 💬 Ask me about **Java,PHP**
 
