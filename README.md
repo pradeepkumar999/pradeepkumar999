@@ -30,7 +30,7 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/pradeepvirat96/practice" target="blank"><img align="center" src="file:///C:/Users/20-733-028_YERRAJAMA/Downloads/gfg-gg-logo.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pradeepvirat96/practice" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsi7Zqp3P2aWSesXENf57NTM31OY8Rdr9mJON-myVq-hCIodY&s" alt="gfg" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/a61148e0-9a85-4cc1-bcc1-df6bf80f008b" target="blank"><img align="center" src="file:///C:/Users/20-733-028_YERRAJAMA/Downloads/cn-studio-new-logo-27719.svg" alt="user:22438954" height="30" width="40" /></a>
 </p>
 
