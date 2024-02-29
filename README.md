@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **● Keeper App Project | React, JavaScript (ES6), HTML5, CSS3**
+- 🔭 I’m currently working on **● Worldcup TeamCraft: Building Your Dream X | Web Scraping, Python, Pandas, and Power BI**
 
-- 🌱 I’m currently learning **PHP,React,wordpress**
+- 🌱 I’m currently learning **Power BI, Python, Java**
 
-- 👯 I’m looking to collaborate on **● Cryptocurrency Price Tracker | WordPress, Cryptocurrency Widgets Plugin, TasteWP (WordPress testing platform), CoinGecko API (for reliable price data)**
+- 👯 I’m looking to collaborate on **● FoodBot: Dialogflow-Powered Delivery System | Dialogflow, Python, FastAPI, MySQL, ChatGPT**
 
-- 🤝 I’m looking for help with **● Food Ordering Ecommerce Store | PHP, MySQL, Bootstrap, PDO, Ajax-JQuery, PayPal Integration**
+- 🤝 I’m looking for help with **● Car Rental System | Java, Object-Oriented Programming, Console Interface, System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pradeepkumar999?tab=repositories](https://github.com/pradeepkumar999?tab=repositories)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **yerrajaman.pradeep@gmail.com**
 
-- 📄 Know about my experiences [https://publuu.com/flip-book/223070/531880](https://publuu.com/flip-book/223070/531880)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I think I am creative**
 
